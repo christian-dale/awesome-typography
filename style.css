@@ -1,0 +1,22 @@
+/* Remove border added by code-prettify */
+
+pre {
+    border: 0 !important;
+}
+
+.hero {
+    height: 100vh;
+}
+
+.heading-font-label {
+    background-color: #eee;
+    border-radius: 5px;
+    display: inline-block;
+    font-size: 1.2rem;
+    padding: 5px;
+}
+
+footer {
+    padding: 30px;
+    text-align: center;
+}
